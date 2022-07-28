@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #390099;
+}
+
+.contenedor {
+    display: flex;
+    width: 100% ;
+    height: 100%;
+    justify-content: center;
+    
+}
+
+.contenedor-datos {
+    background-color: rgb(209, 209, 26);
+    width: 70%;
+    height: 30%;
+    border-radius: 15px;
+    box-shadow: -1px -1px 43px 0px rgba(0,0,0,0.75);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bokita-img {
+    height: 100%;
+}
+
+.boton1{
+   margin-left: 8vw;
+   padding: 10px;
+   background-color: #390099;
+   color: yellow;
+   border-radius: 10px;
+   box-shadow: -2px 2px 49px 0px rgba(66,15,207,0.75);
+
+}
+
+.boton2{
+    margin-left: 8vw;
+    padding: 10px;
+    background-color: #390099;
+    color: yellow;
+    border-radius: 10px;
+    box-shadow: -2px 2px 49px 0px rgba(66,15,207,0.75);
+
+}
+
+.boton3{
+    margin-left: 8vw;
+    padding: 10px;
+    background-color: #390099;
+    color: yellow;
+    border-radius: 10px;
+    box-shadow: -2px 2px 49px 0px rgba(66,15,207,0.75);
+
+}
+
+.boton4{
+    margin-left: 8vw;
+    padding: 10px;
+    background-color: #390099;
+    color: yellow;
+    border-radius: 10px;
+    box-shadow: -2px 2px 49px 0px rgba(66,15,207,0.75);
+
+}
