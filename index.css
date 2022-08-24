@@ -83,6 +83,7 @@ a {
 .parrafo {
     color: #2D36C4;
     font-size: 1.1em;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .section2 {
@@ -99,4 +100,87 @@ a {
     font-size: 1.1em;
     font-weight: 600;
     padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.section-info {
+    background-color: #2D36C4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.title-info {
+    color: #F1F105;
+    font-size: 1.5em;
+    font-weight: 600;
+    text-decoration-line: underline;
+}
+
+.container-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+   
+}
+
+.container-fotos {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-fotos img {
+    border-radius: 10%;
+    margin-top: 30px;
+}
+
+.container-fotos p {
+    color: #F1F105;
+    font-size: 1.1em;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pie-pagina {
+    background-color: #2D36C4;
+    display: flex;
+
+}
+
+.contact-us {
+    color: #F1F105;
+    padding: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #F1F105;
+    
+}
+
+.fa-plane-up {
+    color: #F1F105;
+    font-size: 130%;
+}
+
+.fa-ticket {
+    color: #F1F105;
+    font-size: 130%;
+}
+
+.fa-shirt {
+    color: #F1F105;
+    font-size: 130%;
 }
